@@ -1,0 +1,8 @@
+#myphoto{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: absolute;
+    left: 3%;
+    top: 580px;
+}
