@@ -6,10 +6,6 @@ div{
     text-align: center;
 }
 
-h1{
-    text-decoration: aliceblue;
-}
-
 /*Estilo de la foto de perfil*/
 
 @media (min-width: 576px){
@@ -27,7 +23,7 @@ h1{
         position: absolute;
         width: 190px;
         border-radius: 100%;
-        left: 15%;
+        left: 75px;
         top:750px;
     }
 }
