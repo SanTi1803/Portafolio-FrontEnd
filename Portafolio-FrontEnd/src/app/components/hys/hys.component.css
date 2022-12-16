@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+}
+
+.row{
+    background-color: #070707;
+    padding: 20px;
+}
+
+#titulo{
+    text-align: left;
+    text-decoration: #f8f9fa;
+}
+
+.circulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
