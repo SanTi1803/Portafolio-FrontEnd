@@ -25,8 +25,11 @@ div{
         width: 35%;
         border-radius: 100%;
         left: 33%;
-        top:750px;
+        top:840px;
     }
 }
 
-
+#nombre{
+    font-weight: 700;
+    margin-top: 30%;
+}
